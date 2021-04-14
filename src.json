@@ -5,6 +5,6 @@
   "btn-copy": "Copy",
   "footer": ["© 2021, with love, "term.gg's team", "Translate a site: https://github.com/TerminlPR0/shorter-translate"], //then I'll come up with a new footer, add here
   "site-title": "Shorter links, free, anonymous",
-  "404page-text": "Oops! This short link not exist. Probably your link got banned, or happened a error.",
+  "404page-text": "Oops! This short link not exist. Maybe your link got banned, or happened a error.",
   "404page-title": "Error!"
 }
